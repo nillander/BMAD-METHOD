@@ -1,3 +1,5 @@
+[![Assista ao vídeo](https://img.youtube.com/vi/fD8NLPU0WYU/0.jpg)](https://www.youtube.com/watch?v=fD8NLPU0WYU)
+
 # BMAD-METHOD™: Universal AI Agent Framework
 
 [![Version](https://img.shields.io/npm/v/bmad-method?color=blue&label=version)](https://www.npmjs.com/package/bmad-method)
